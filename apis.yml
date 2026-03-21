@@ -1,0 +1,7 @@
+aid: gxo-logistics
+url: https://raw.githubusercontent.com/api-evangelist/gxo-logistics/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.gxo-logistics.com
